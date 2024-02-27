@@ -3,10 +3,10 @@
 ## SciPY Installation Instructions
   To install SciPY, you must follow these steps:
   1) Command: initiate the installation process (usually downloads its dependencies)
-        pip install scipy
+        !pip install scipy
 
-  2) Depending on the system and configurations, tt may be needed to install the additional libraries (NumPy & Matplotlib)
-        pip install numpy matplotlib
+  2) Depending on the system and configurations, it may be needed to install the additional libraries (NumPy & Matplotlib)
+        !pip install numpy matplotlib
 
   3) Once installations are complete, we import the library, and therefore verifying everything it was properly downloaded
         import scipy
