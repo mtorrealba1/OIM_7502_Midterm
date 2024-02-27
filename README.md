@@ -26,10 +26,10 @@
   Machine Learning:  optimization and linear algebra modules are crucial components
 
 
-
 ## SciPy Documentation
 https://docs.scipy.org/doc/scipy/tutorial/index.html#user-guide
 
 
 ## SciPY for Data Science
-Add Why use SciPy for Data Science
+The use of SciPy is important for Data Science as it makes easier the everyday tasks.
+Since it expands on the capabilities of NumPy, this library provides an additional set of tools specifically designed for scientific and data science applications
