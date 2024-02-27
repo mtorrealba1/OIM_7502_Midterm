@@ -1,13 +1,15 @@
 # OIM_7502_Midterm
 
-## SciPY Installation Instructions
+## 1) SciPY Installation Instructions
 
   Add instructions to install SciPY
 
-## SciPY Overview
+## 2) Library overview (SciPY) Overview
 
 Add Overview of SciPY
 
-## SciPY for Data Science
+## 3) SciPy Documentation
+
+## 4) SciPY for Data Science
 
 Add Why use SciPy for Data Science
